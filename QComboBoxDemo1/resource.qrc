@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/Nature.jpg</file>
+        <file>img/exit_icon.jpg</file>
+        <file>img/new_icon.png</file>
+        <file>img/open_icon.jpg</file>
+    </qresource>
+</RCC>
